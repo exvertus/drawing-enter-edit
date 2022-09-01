@@ -1,2 +1,3 @@
-# drawing-enter-edit
-Web form and supporting infrastructure for adding my drawing to Firestore
+# Drawing Enter/Edit
+
+Form page and server image to standardize data-entry process for my drawing portfolio.
